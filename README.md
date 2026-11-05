@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo-lockup.png" width="260" alt="LLM Rank Hub"></p>
+<p align="center"><img src="assets/logo-plate.png" width="480" alt="LLM Rank Hub"></p>
 
 <h1 align="center">同一个模型，<br>找到更便宜、更稳定的渠道。</h1>
 
@@ -7,16 +7,17 @@
 <p align="center"><sub>600+ 模型 · 780+ 渠道 · 130+ 免费渠道 · 每日更新</sub></p>
 
 <p align="center">
-  <a href="https://llmrankhub.com/promo"><b>打开宣传页 →</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://llmrankhub.com">打开产品 →</a>
+  <a href="https://llmrankhub.com/promo"><img src="https://img.shields.io/badge/OPEN_PROMO-llmrankhub.com%2Fpromo-252523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="打开宣传页"></a>
+  <a href="https://llmrankhub.com"><img src="https://img.shields.io/badge/OPEN_PRODUCT-llmrankhub.com-2f7d43?style=for-the-badge&logo=openai&logoColor=white" alt="打开产品"></a>
 </p>
+
+<p align="center"><sub>先看 30 秒介绍 · 或直接打开产品</sub></p>
 
 <p align="center">
-  <img src="assets/logo-cloud-16.png" width="1100" alt="接入的渠道与模型厂商">
+  <img src="assets/logo-mosaic.png" width="1000" alt="接入的渠道与模型厂商">
 </p>
 
-<p align="center"><sub>部分渠道与模型厂商 · 排名不分先后</sub></p>
+<p align="center"><sub>部分渠道与模型厂商 · 更多见站内</sub></p>
 
 ---
 
