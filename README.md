@@ -1,5 +1,7 @@
 <p align="center"><img src="assets/logo-plate.png" width="480" alt="LLM Rank Hub"></p>
 
+<p align="center"><sub><b>中文</b> · <a href="README.en.md">English</a></sub></p>
+
 <h1 align="center">同一个模型，<br>找到更便宜、更稳定的渠道。</h1>
 
 <p align="center"><b>跨渠道比价 · 真实调用量排行 · 免费额度 · BYOK Token 计算器</b></p>
@@ -84,7 +86,7 @@ print(resp.choices[0].message.content)
 
 ## 链接
 
-- 宣传页：[llmrankhub.com/promo](https://llmrankhub.com/promo)
+- 宣传页：[llmrankhub.com/promo](https://llmrankhub.com/promo) · [English](https://llmrankhub.com/promo/en)
 - 产品：[llmrankhub.com](https://llmrankhub.com)
 - 反馈与合作：[llmrankhub.com](https://llmrankhub.com)
 
