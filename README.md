@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo-cloud.png" width="1100" alt="接入的渠道与模型厂商">
+  <img src="assets/logo-cloud-16.png" width="1100" alt="接入的渠道与模型厂商">
 </p>
 
 <p align="center"><sub>部分渠道与模型厂商 · 排名不分先后</sub></p>
