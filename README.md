@@ -9,7 +9,7 @@
 <p align="center"><sub>600+ 模型 · 780+ 渠道 · 130+ 免费渠道 · 每日更新</sub></p>
 
 <p align="center">
-  <a href="https://llmrankhub.com/promo"><img src="https://img.shields.io/badge/OPEN_PROMO-llmrankhub.com%2Fpromo-252523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="打开宣传页"></a>
+  <a href="https://llmrankhub.com/promo/zh"><img src="https://img.shields.io/badge/OPEN_PROMO-llmrankhub.com%2Fpromo%2Fzh-252523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="打开宣传页"></a>
   <a href="https://llmrankhub.com"><img src="https://img.shields.io/badge/OPEN_PRODUCT-llmrankhub.com-2f7d43?style=for-the-badge&logo=openai&logoColor=white" alt="打开产品"></a>
 </p>
 
@@ -86,7 +86,7 @@ print(resp.choices[0].message.content)
 
 ## 链接
 
-- 宣传页：[llmrankhub.com/promo](https://llmrankhub.com/promo) · [English](https://llmrankhub.com/promo/en)
+- 宣传页：[llmrankhub.com/promo/zh](https://llmrankhub.com/promo/zh) · [English](https://llmrankhub.com/promo)
 - 产品：[llmrankhub.com](https://llmrankhub.com)
 - 反馈与合作：[llmrankhub.com](https://llmrankhub.com)
 

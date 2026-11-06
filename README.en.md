@@ -9,7 +9,7 @@
 <p align="center"><sub>600+ models · 780+ channels · 130+ free channels · updated daily</sub></p>
 
 <p align="center">
-  <a href="https://llmrankhub.com/promo/en"><img src="https://img.shields.io/badge/OPEN_PROMO-llmrankhub.com%2Fpromo%2Fen-252523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the promo page"></a>
+  <a href="https://llmrankhub.com/promo"><img src="https://img.shields.io/badge/OPEN_PROMO-llmrankhub.com%2Fpromo-252523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the promo page"></a>
   <a href="https://llmrankhub.com"><img src="https://img.shields.io/badge/OPEN_PRODUCT-llmrankhub.com-2f7d43?style=for-the-badge&logo=openai&logoColor=white" alt="Open the product"></a>
 </p>
 
@@ -86,7 +86,7 @@ Only models with at least one free channel. Expand one to see **free channels on
 
 ## Links
 
-- Promo: [llmrankhub.com/promo/en](https://llmrankhub.com/promo/en) · [中文](https://llmrankhub.com/promo)
+- Promo: [llmrankhub.com/promo](https://llmrankhub.com/promo) · [中文](https://llmrankhub.com/promo/zh)
 - Product: [llmrankhub.com](https://llmrankhub.com)
 - Feedback & partnerships: [llmrankhub.com](https://llmrankhub.com)
 
